@@ -18,7 +18,7 @@ The Github editor doesn't show the characters themselves, but does display a nic
 Eclipse, to my chagrin, did not display the codes at all, nor did it attempt to interpret them. So nothing seemed amiss:
 ![image](https://user-images.githubusercontent.com/57366429/141070160-589b6b53-5128-46bd-a150-c1f5f9e0c5cd.png)
 
-This is a scary attack on its surface, with the threat that reviewers are not seeing what's actually in the code. But the ease of finding control characters coupled with its new appearance as a possible avenue of attack and the fact that some editors do already show/flag the existance of control characters should put us, if not at ease, then at least aware of the potential and act accordingly.
+This is a concerning attack on its surface, with the threat that reviewers are not seeing what's actually in the code. But the ease of finding control characters coupled with its new appearance as a possible avenue of attack and the fact that some editors do already show/flag the existance of control characters should put us, if not at ease, then at least aware of the potential and act accordingly.
 
 Future plans:
 * Add param(s) for filename(s)/directory, so it isn't hard-coded
