@@ -29,4 +29,5 @@ Future plans:
 * Display line, col instead of char count
 * Display section of line containing dangerous character, showing char by its initialism
 * Add any other control characters that don't belong in source code
+* Add homoglyph attack detection
 
